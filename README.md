@@ -2,17 +2,17 @@
 
 ## Step 1: Clone the project
 ## Step 2: Install Dependencies
-
 ```bash
 # using npm
 npm i
+```
 
 ## Step 3: Start your Application
-
 ### For iOS
 
 ```bash
 # using npm
 npm run ios
+```
 
 NOTE: In the PlatformInput file, please use your own API key
