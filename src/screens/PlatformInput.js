@@ -22,7 +22,6 @@ import {launchCamera, launchImageLibrary} from 'react-native-image-picker';
 import {GoogleGenerativeAI} from '@google/generative-ai';
 import {API_KEY} from '@env';
 
-// Access your API key as an environment variable (see "Set up your API key" above)
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 const PlatformInput = ({route}) => {
