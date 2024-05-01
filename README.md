@@ -8,8 +8,6 @@ npm i
 ```
 
 ## Step 3: Start your Application
-### For iOS
-
 ```bash
 # using npm
 npm run ios
