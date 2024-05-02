@@ -5,6 +5,9 @@
 ```bash
 # using npm
 npm i
+cd ios
+pod install
+cd ..
 ```
 
 ## Step 3: Start your Application
